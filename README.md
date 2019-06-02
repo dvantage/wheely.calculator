@@ -1,16 +1,6 @@
-# wheely
+# Wheely Calculator
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Wheely Calculator](https://wheely.d-vantage.com) 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![alt text](src/assets/background.png?raw=true "Wheely Calculator")
